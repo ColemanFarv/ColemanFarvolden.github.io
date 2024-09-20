@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Coleman Farvolden"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "she/her" # 
   bio              : "3rd year Mechatronics and Robotics Engineerin Student"
   location         : "Kingston, Ontario"
   employer         : "Queen's University"
