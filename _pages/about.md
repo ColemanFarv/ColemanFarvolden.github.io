@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 I'm a 3rd year Mechatronics and Robotics Engineering student at Queen's University.
+📚 I'm a 3rd year Mechatronics and Robotics Engineering student at Queen's University.
 
-🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
+🔬 My research interests are in Robotics and AI. I'm passionate about working on embodied AI.
 
-📚 I'm currently working towards my Master's Thesis in the field of Vision-Language-Modelling.
+💼  I'm seeking entry-level positions in AI and/or robotics where I can both learn and contribute.
 
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
 
 # Selected Experience
 
