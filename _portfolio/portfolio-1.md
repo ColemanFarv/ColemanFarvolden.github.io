@@ -1,6 +1,6 @@
 ---
 title: "LifeBot"
-excerpt: "Autonomous rover for swift AED deployment in indoor emergencies<br/><img src='/images/500x300.png'>"
+excerpt: "Autonomous rover for swift AED deployment in indoor emergencies<br/><img src='/ColemanFarvolden.github.io/images/500x300.png'>"
 collection: portfolio
 ---
 
