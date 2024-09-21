@@ -1,6 +1,6 @@
 ---
 title: "Autonomous Loader"
-excerpt: "Model Autonomous Mining Loader for sorting bricks  <br/><img src='/ColemanFarvolden.github.io/images/autoLoader.png'>"
+excerpt: "Model Autonomous Mining Loader for sorting bricks  <br/><img src='/ColemanFarvolden.github.io/images/fullLoader.png'>"
 collection: portfolio
 ---
 
@@ -10,4 +10,4 @@ Project PDF available [here.](https://www.linkedin.com/in/coleman-farvolden-0601
 
 Code available on [GitHub.](https://github.com/ColemanFarv/autonomous_mining_loader)
 
-![Image](https://colemanfarv.github.io/ColemanFarvolden.github.io/images/fullLoader.png)
+![Image](https://colemanfarv.github.io/ColemanFarvolden.github.io/images/autoLoader.png)
