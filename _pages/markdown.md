@@ -30,4 +30,10 @@ Beyond the physical challenges, triathlons have also brought me a strong sense o
 
 
 
-## First Aid
+## ⛑️ Volunteer First Aid
+
+As a volunteer with Queen's First Aid, I've found a fulfilling way to combine my passion for 🩼 helping others with my commitment to community service. QFA provides first 🆘 emergency response services to everyone on the university campus. I Joined the team in my second year and after taking a 🕔 60 hour Advanced Medical First Responder course, I now volunteer on-call at least 6 hours a week.
+
+The camaraderie and support within our team have made my time with the organization truly special. I've formed lasting friendships with my 👥 fellow volunteers.
+
+![Image](https://colemanfarv.github.io/ColemanFarvolden.github.io/images/qfa.png)
