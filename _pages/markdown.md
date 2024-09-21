@@ -11,26 +11,23 @@ redirect_from:
 
 As an avid outdoorsman, I love being in the outdoors wheather it be 🥾 Hiking, 🏕️ camping, 🧗 rock climbing, and 🛶whitewater canoeing.
 
-In 2022, I embarked on an unforgettable journey through the 🐻‍❄️ Arctic Circle. Over the course of 1200 kilometers, I navigated wild rivers, 🌄 encountered breathtaking landscapes, and experienced the beauty of the 🧭 North. This expedition was a true highlight of my life, pushing my limits and deepening my connection to the natural world where there was almost no evidence of human existance.
+In 2022, I embarked on an unforgettable journey through the 🐻‍❄️ Arctic Circle. Over the course of 1200 kilometers, I navigated wild rivers, 🌄 encountered breathtaking landscapes, and experienced the beauty of the 🧭 North. This expedition was a true highlight of my life, pushing my limits and deepening my connection to the natural world.
 
 I'm always seeking new adventures and opportunities to explore different 🏺 cultures and parts of the 🌎 world.
 
 
 ![Image](https://colemanfarv.github.io/ColemanFarvolden.github.io/images/trip.png)
 
-## Triathlon
+## 🏊‍♂️🚴‍♂️🏃‍♂️ Triathlon
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/colemanfarv.github.io/ColemanFarvolden.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
-* Academic Pages uses [Jekyll Kramdown](https://jekyllrb.com/docs/configuration/markdown/), GitHub Flavored Markdown (GFM) parser, which is similar to the version of Markdown used on GitHub, but may have some minor differences. 
-  * Some of emoji supported on GitHub should be supposed via the [Jemoji](https://github.com/jekyll/jemoji) plugin :computer:.
-  * The best list of the supported emoji can be found in the [Emojis for Jekyll via Jemoji](https://www.fabriziomusacchio.com/blog/2021-08-16-emojis_for_Jekyll/#computer) blog post.
+I began my Tri journey with a simple love for 🚴‍♂️ cycling around my 🛣️ house. This passion eventually led me to tryout for the university triathlon team, where I discovered a newfound intrest in 🏊‍♂️ swimming and 🏃‍♂️ running. I've honed my skills and developed a deep appreciation for the sport.
+
+Recently, I took a significant step forward by completing the Muskoka Half 🧲 Ironman. This challenging race pushed me to my physical and mental limits, but the sense of accomplishment I felt at the finish line was amazing. My ultimate goal is to one day tackle a full 🧲 Ironman triathlon.
+
+Beyond the physical challenges, triathlons have also brought me a strong sense of 🤝 community and friendship. The varsity triathlon team is filled with inspiring individuals who share a common passion for the sport. I have met lifelong friends who have supported me along the way.
+
+![Image](https://colemanfarv.github.io/ColemanFarvolden.github.io/images/tri.png)
+
+
 
 ## First Aid
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
- * [MathJax Documentation](https://docs.mathjax.org/en/latest/)
-
