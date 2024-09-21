@@ -11,3 +11,5 @@ Lee highlighted the project's uniqueness, saying, "We were determined to create 
 Project powerpoint available [here.](https://www.linkedin.com/in/coleman-farvolden-0601321b8/details/projects/585707758/multiple-media-viewer/?profileId=ACoAADKQjMgBu4nBPHvcXTMyrIJMtMFs6L1vruA&treasuryMediaId=1716425144148)
 
 Code available on [GitHub.](https://github.com/ColemanFarv/hackathon1medsim)
+
+![Image](https://colemanfarv.github.io/ColemanFarvolden.github.io/images/neuroneck2.png)
