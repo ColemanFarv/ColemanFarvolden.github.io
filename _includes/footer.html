@@ -1,15 +1,4 @@
-{% if site.author.bitbucket %}
-<div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
-    <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
-  </ul>
-</div>
-{% endif %}
-
-<div class="page__footer-copyright">
+<div class="page__footer"></div>
   &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.<br />
   Site last updated {{ "now" | date: '%Y-%m-%d' }}
 </div>
