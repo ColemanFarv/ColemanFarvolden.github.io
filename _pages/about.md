@@ -25,7 +25,7 @@ redirect_from:
 
 🚧 To look at some of my personal projects visit [here.](https://colemanfarv.github.io/ColemanFarvolden.github.io/portfolio/)
 
-
+🛋️ Things I like to do and [Hobbies.](https://colemanfarv.github.io/ColemanFarvolden.github.io/year-archive/)
 
 
 
