@@ -1,6 +1,6 @@
 ---
 title: "RCPPO"
-excerpt: "Implementation of RCPO into stable-baselines3 PPO. <br/><img src='/ColemanFarvolden.github.io/images/images/RCPPO.png'>"
+excerpt: "Implementation of RCPO into stable-baselines3 PPO. <br/><img src='/ColemanFarvolden.github.io/images/RCPPO.png'>"
 collection: portfolio
 ---
 
