@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "LifeBot"
+excerpt: "Autonomous rover for swift AED deployment in indoor emergencies<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The LifeBot project develops an autonomous robot for swift AED deployment in indoor emergencies. It integrates Raspberry Pi, Arduino UNO WiFi Rev 2, and ROS2 for precise navigation. PID controllers ensure accurate motor control, while SLAM mapping and NAV2 enable autonomous navigation. Its technical prowess lies in advanced sensor integration, robust motor control, and efficient communication protocols for seamless operation in dynamic indoor environments.
+
+Video of SLAM and NAV2 autonomous navigation available at: https://youtu.be/SiA5EWiZTL0
+
+Code available on Github: https://github.com/ColemanFarv/dev_ws/tree/main

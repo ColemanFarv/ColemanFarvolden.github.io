@@ -19,7 +19,7 @@ redirect_from:
 
 📜 My resume/CV is available [here.](https://colemanfarv.github.io/ColemanFarvolden.github.io/files/Resume.pdf)
 
-👨🏻‍🔬Last summer I was a **Student Researcher** at the Perk Lab under the supervision of Prof. Keyvan hashtrudi-zaad a working on **Medical Robotics**. My research papers are available [here.](https://colemanfarv.github.io/ColemanFarvolden.github.io/publications/)
+👨🏻‍🔬Last summer I was a **Student Researcher** at the Perk Lab under the supervision of Prof. Keyvan hashtrudi-zaad working on **Medical Robotics**. My research papers are available [here.](https://colemanfarv.github.io/ColemanFarvolden.github.io/publications/)
 
 ⚙️ Additionally, I have professional experience working as an **Automation Engineering Intern** at Proax Technologies. There I worked on large scale automation systems.
 
