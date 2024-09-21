@@ -1,15 +1,14 @@
 ---
-title: "NeuroNeck"
-excerpt: "Winning project in Ingenuity Labs Medical Simulation Hackathon. <br/><img src='/ColemanFarvolden.github.io/images/neuroneck.png'>"
+title: "LifeBot"
+excerpt: "Autonomous rover for swift AED deployment in indoor emergencies<br/><img src='/ColemanFarvolden.github.io/images/500x300.png'>"
 collection: portfolio
 ---
 
-Siobhan Lee, Spencer Osborn, Coleman Farvolden, and Ryan McGillivray showcased their winning project 'NeuroNeck', a novel approach to training for the mobilization of spinal injuries. Through the use of sensors and algorithms, NeuroNeck provides instant feedback on the precision of neck and head movements with the aim of assisting emergency first responders and healthcare professionals. The device's use of LEDs and gyroscopes to signal movement with remarkable accuracy marks a significant development in medical simulation.
- 
-Lee highlighted the project's uniqueness, saying, "We were determined to create a device that filled an unmet need in the market. By focusing on a less explored aspect of medical simulation, we were able to distinguish our project from others, contributing a novel solution to the field."
+The LifeBot project develops an autonomous robot for swift AED deployment in indoor emergencies. It integrates Raspberry Pi, Arduino UNO WiFi Rev 2, and ROS2 for precise navigation. PID controllers ensure accurate motor control, while SLAM mapping and NAV2 enable autonomous navigation. Its technical prowess lies in advanced sensor integration, robust motor control, and efficient communication protocols for seamless operation in dynamic indoor environments.
 
-Project powerpoint available [here.](https://www.linkedin.com/in/coleman-farvolden-0601321b8/details/projects/585707758/multiple-media-viewer/?profileId=ACoAADKQjMgBu4nBPHvcXTMyrIJMtMFs6L1vruA&treasuryMediaId=1716425144148)
+Video of SLAM and NAV2 autonomous navigation available on [YouTube.](https://github.com/ColemanFarv/dev_ws/tree/main)
 
-Code available on [GitHub.](https://github.com/ColemanFarv/hackathon1medsim)
+Code available on [GitHub.](https://github.com/ColemanFarv/dev_ws/tree/main)
 
-![Image](https://colemanfarv.github.io/ColemanFarvolden.github.io/images/neuroneck2.png)
+![Image](https://colemanfarv.github.io/ColemanFarvolden.github.io/images/lifebot2.png)
+

@@ -1,13 +1,17 @@
 ---
-title: "Elevator System"
-excerpt: "Multi-elevator communication system using microcontrollers <br/><img src='/ColemanFarvolden.github.io/images/elevator.png'>"
+title: "Stock Predictor"
+excerpt: "Financial software hobby project with regression analysis and machine learning  <br/><img src='/ColemanFarvolden.github.io/images/stock.png'>"
 collection: portfolio
 ---
 
-This project is an efficient multi-elevator communication system using microcontrollers which can be adapted for any building. In depth explanation available on GitHub.
+Financial software hobby project with regression analysis and machine learning.
 
-Working video available [here.](https://youtu.be/rcoC1hvFNZY)
+Written in Python using Alpha Vantage API, NUMPY, Pandas,Regression analysis and PyTorch. Uses LSTM and GRU Deep Learning Models.
 
-Code available on [GitHub.](https://github.com/ColemanFarv/ElevatorCode)
+Mean Squared Error (MSE): 1.3138430025999263e-05
+Root Mean Squared Error (RMSE): 0.0036246972323215167
+Accuracy: 99.63753027676785 %
 
-![Image](https://colemanfarv.github.io/ColemanFarvolden.github.io/images/elevator.png)
+Code available on [GitHub.](https://github.com/ColemanFarv/CodeFinance/blob/master/AiStockModeling.ipynb)
+
+![Image](https://colemanfarv.github.io/ColemanFarvolden.github.io/images/stock2.png)

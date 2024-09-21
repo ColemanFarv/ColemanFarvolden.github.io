@@ -1,13 +1,14 @@
+
 ---
-title: "Pacman Game"
-excerpt: "Coded Pacman game from scratch on C++ <br/><img src='/ColemanFarvolden.github.io/images/pacman.png'>"
+title: "Elevator System"
+excerpt: "Multi-elevator communication system using microcontrollers <br/><img src='/ColemanFarvolden.github.io/images/elevator.png'>"
 collection: portfolio
 ---
 
-Coded Pacman game from scratch on C++. Game works in output window.
+This project is an efficient multi-elevator communication system using microcontrollers which can be adapted for any building. In depth explanation available on GitHub.
 
-Working video available [here.](https://youtu.be/-ey5chYDgpY)
+Working video available [here.](https://youtu.be/rcoC1hvFNZY)
 
-Code available on [GitHub.](https://github.com/ColemanFarv/PacMan-Code/tree/master)
+Code available on [GitHub.](https://github.com/ColemanFarv/ElevatorCode)
 
-![Image](https://colemanfarv.github.io/ColemanFarvolden.github.io/images/pacman.png)
+![Image](https://colemanfarv.github.io/ColemanFarvolden.github.io/images/elevator.png)
