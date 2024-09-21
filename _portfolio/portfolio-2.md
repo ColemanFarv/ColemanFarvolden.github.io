@@ -1,7 +1,13 @@
 ---
-title: "RCPPO"
-excerpt: "Implementation of RCPO into stable-baselines3 PPO. <br/><img src='/ColemanFarvolden.github.io/images/RCPPO.png'>"
+title: "NeuroNeck"
+excerpt: "Winning project in Medical Simulation Hackathon. <br/><img src='/ColemanFarvolden.github.io/images/neuroneck.png'>"
 collection: portfolio
 ---
 
-In this project I implemented the [Reward Constrained Policy Optimization Paper](https://openreview.net/pdf?id=SkfrvsA9FX) by Tessler et al. into stable-baselines3 implementation of PPO. Additionally, I reproduced the original results by tracking my experiments using weights and biases. The code for this project can be found [here](https://github.com/sudo-Boris/stable-baselines3). I also wrote an article elaborating on the theory of RCPO and my results and submitted it to the ICLR Blogposts Track! You can fin the article [here](https://iclr-blogposts.github.io/staging/blog/2023/Adaptive-Reward-Penalty-in-Safe-Reinforcement-Learning/)
+Siobhan Lee, Spencer Osborn, Coleman Farvolden, and Ryan McGillivray showcased their winning project 'NeuroNeck', a novel approach to training for the mobilization of spinal injuries. Through the use of sensors and algorithms, NeuroNeck provides instant feedback on the precision of neck and head movements with the aim of assisting emergency first responders and healthcare professionals. The device's use of LEDs and gyroscopes to signal movement with remarkable accuracy marks a significant development in medical simulation.
+ 
+Lee highlighted the project's uniqueness, saying, "We were determined to create a device that filled an unmet need in the market. By focusing on a less explored aspect of medical simulation, we were able to distinguish our project from others, contributing a novel solution to the field."
+
+Project powerpoint available [here.](https://www.linkedin.com/in/coleman-farvolden-0601321b8/details/projects/585707758/multiple-media-viewer/?profileId=ACoAADKQjMgBu4nBPHvcXTMyrIJMtMFs6L1vruA&treasuryMediaId=1716425144148)
+
+Code available on [GitHub.](https://github.com/ColemanFarv/hackathon1medsim)
