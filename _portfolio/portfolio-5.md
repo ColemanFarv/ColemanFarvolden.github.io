@@ -1,6 +1,6 @@
 ---
 title: "Pacman Game"
-excerpt: "Coded Pacman game from scratch on C++ <br/><img src='/ColemanFarvolden.github.io/images/elevator.png'>"
+excerpt: "Coded Pacman game from scratch on C++ <br/><img src='/ColemanFarvolden.github.io/images/pacman.png'>"
 collection: portfolio
 ---
 
