@@ -21,7 +21,7 @@ redirect_from:
 
 👨🏻‍🔬Last summer I was a **Student Researcher** at the Perk Lab under the supervision of Prof. Keyvan hashtrudi-zaad working on **Medical Robotics**. My research papers are available [here.](https://colemanfarv.github.io/ColemanFarvolden.github.io/publications/)
 
-⚙️ Additionally, I have professional experience working as an **Automation Engineering Intern** at Proax Technologies. There I worked on large scale automation systems.
+⚙️ Additionally, I have professional experience working as an **Automation Engineering Intern** at [Proax Technologies.](https://proax.ca/?srsltid=AfmBOormDr1cXuKYhq8wBIf915tGkO6lecAR-CyXmDjwiSCW6G8hx-z2). There I worked on large scale automation systems.
 
 🚧 To look at some of my personal projects visit [here.](https://colemanfarv.github.io/ColemanFarvolden.github.io/portfolio/)
 
