@@ -1,6 +1,6 @@
 ---
 title: "NeuroNeck"
-excerpt: "Winning project in Medical Simulation Hackathon. <br/><img src='/ColemanFarvolden.github.io/images/neuroneck.png'>"
+excerpt: "Winning project in Ingenuity Labs Medical Simulation Hackathon. <br/><img src='/ColemanFarvolden.github.io/images/neuroneck.png'>"
 collection: portfolio
 ---
 
