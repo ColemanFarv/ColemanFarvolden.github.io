@@ -15,12 +15,15 @@ redirect_from:
 💼  I'm seeking entry-level positions in AI and/or robotics where I can both learn and contribute.
 
 
-## Professional Experience
+## Experience
+
+📜 My resume/CV is available [here.](https://colemanfarv.github.io/ColemanFarvolden.github.io/files/Resume.pdf)
+
 👨🏻‍🔬Last summer I was a **Student Researcher** at the Perk Lab under the supervision of Prof. Keyvan hashtrudi-zaad a working on **Medical Robotics**. My research papers are available [here.](https://colemanfarv.github.io/ColemanFarvolden.github.io/publications/)
 
 ⚙️ Additionally, I have professional experience working as an **Automation Engineering Intern** at Proax Technologies. There I worked on large scale automation systems.
 
-📜 To look at some of my personal projects visit [here.](https://colemanfarv.github.io/ColemanFarvolden.github.io/portfolio/)
+🚧 To look at some of my personal projects visit [here.](https://colemanfarv.github.io/ColemanFarvolden.github.io/portfolio/)
 
 
 
