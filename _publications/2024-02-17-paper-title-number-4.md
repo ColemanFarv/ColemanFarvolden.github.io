@@ -10,3 +10,4 @@ RESULTS: The latency was recorded to be 832.1 milliseconds on average with 132.6
 date: 2024-08-11
 venue: 'SPIE Medical Imaing Conference 2025 - paper is pending acceptance'
 # paperurl: 'https://colemanfarv.github.io/ColemanFarvolden.github.io/files/paper2.pdf'
+---
