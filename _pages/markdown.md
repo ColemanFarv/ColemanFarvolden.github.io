@@ -9,7 +9,7 @@ redirect_from:
 
 ## ⛰️ The Outdoors
 
-As an avid outdoorsman, I love being in the outdoors wheather it be 🥾 Hiking, 🏕️ camping, 🧗 rock climbing, and 🛶 whitewater canoeing.
+As an avid outdoorsman, I love being in the outdoors whether it be 🥾 Hiking, 🏕️ camping, 🧗 rock climbing, and 🛶 whitewater canoeing.
 
 In 2022, I embarked on an unforgettable journey through the 🐻‍❄️ Arctic Circle. Over the course of 1200 kilometers, I navigated wild rivers, 🌄 encountered breathtaking landscapes, and experienced the beauty of the 🧭 North. This expedition was a true highlight of my life, pushing my limits and deepening my connection to the natural world.
 
