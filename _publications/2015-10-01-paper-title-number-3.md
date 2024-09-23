@@ -11,5 +11,6 @@ RESULTS: The system had an average positional accuracy of 3.59  1.4 mm and the s
 CONCLUSIONS: Our open-source benchtop system achieves positional accuracy that would make it a valuable testbed for developing image-guided tumor inspection systems. Future work will explore the application of this test bed within breast conserving surgery.'
 date: 2024-08-11
 venue: 'SPIE Medical Imaing Conference 2025 - paper is pending acceptance'
-paperurl: 'https://colemanfarv.github.io/ColemanFarvolden.github.io/files/paper1.pdf'
+
+#paperurl: 'https://colemanfarv.github.io/ColemanFarvolden.github.io/files/paper1.pdf'
 ---
