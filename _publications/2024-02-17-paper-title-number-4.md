@@ -8,6 +8,6 @@ METHODS: We use electromagnetic tracking and a low cost 6-axis robotic arm to tr
 
 RESULTS: The latency was recorded to be 832.1 milliseconds on average with 132.6 standard deviation. We can also successfully track the motion of the cavity in almost every test position. CONCLUSIONS: These results suggest that tracking of the breast cavity using EM tracking and robotics is feasible. Future work focusing on the integration with spectroscopy and cavity servoing.'
 date: 2024-08-11
-venue: 'SPIE Medical Imaing Conference 2025 - paper is pending acceptance'
+venue: '(SPIE Medical Imaing Conference 2025) - paper is pending acceptance!'
 # paperurl: 'https://colemanfarv.github.io/ColemanFarvolden.github.io/files/paper2.pdf'
 ---
