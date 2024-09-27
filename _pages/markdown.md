@@ -20,7 +20,7 @@ I'm always seeking new adventures and opportunities to explore different 🏺 cu
 
 ## 🏊‍♂️🚴‍♂️🏃‍♂️ Triathlon
 
-I began my Tri journey with a simple love for 🚴‍♂️ cycling around my 🛣️ house. This passion eventually led me to tryout for the university triathlon team, where I discovered a newfound intrest in 🏊‍♂️ swimming and 🏃‍♂️ running. I've honed my skills and developed a deep appreciation for the sport.
+I began my Tri journey with a simple love for 🚴‍♂️ cycling around my 🛣️ house. This passion eventually led me to tryout for the university triathlon team, where I discovered a newfound interest in 🏊‍♂️ swimming and 🏃‍♂️ running. I've honed my skills and developed a deep appreciation for the sport.
 
 Recently, I took a significant step forward by completing the Muskoka Half 🧲 Ironman. This challenging race pushed me to my physical and mental limits, but the sense of accomplishment I felt at the finish line was amazing. My ultimate goal is to one day tackle a full 🧲 Ironman triathlon.
 
