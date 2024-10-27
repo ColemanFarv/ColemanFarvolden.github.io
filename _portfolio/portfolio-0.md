@@ -1,10 +1,10 @@
 ---
 title: "Surgical robotics platform for tracking and imaging"
-excerpt: "Submitted two papers to SPIE Medical Imaging Conference, 2025. <br/><img src='/ColemanFarvolden.github.io/images/Scan.png'>"
+excerpt: "Published two papers to SPIE Medical Imaging Conference, 2025. <br/><img src='/ColemanFarvolden.github.io/images/Scan.png'>"
 collection: portfolio
 ---
 
-**Accomplishments:** Submitted two papers to SPIE Medical Imaging Conference 2025 (Currently waiting to be accepted) - San Diego, CA
+**Accomplishments:** Published two papers to SPIE Medical Imaging Conference 2025 - San Diego, CA
 
 **Part 1:**
 Created a reusable, open-source module using ROS2 and 3D Slicer for scanning a phantom cavity using a depth camera scan, machine vision and spectroscopy. The 6-axis robot scans the entire cavity to detect cancerous tissue. 

@@ -24,7 +24,7 @@ redirect_from:
 🤖 Research achievements:
 - Created an open-source platform for scanning for breast cancer interoperatively during surgery with a 6-axis robot.
 - Created an open-source platform for optical tracking during surgery using a 6-axis robot with a depth camera.
-- Submitted two papers on track to be accepted at SPIE Medical Imaging 2025 - San Diego, CA.
+- Published two papers to SPIE Medical Imaging 2025 - San Diego, CA.
 
 
 ⚙️ Additionally, I have professional experience working as an **Automation Engineering Intern** at [Proax Technologies](https://proax.ca/?srsltid=AfmBOormDr1cXuKYhq8wBIf915tGkO6lecAR-CyXmDjwiSCW6G8hx-z2). There I worked on large scale automation systems.
