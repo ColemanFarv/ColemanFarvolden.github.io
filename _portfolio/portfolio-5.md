@@ -1,14 +1,21 @@
-
 ---
-title: "Elevator System"
-excerpt: "Multi-elevator communication system using microcontrollers <br/><img src='/ColemanFarvolden.github.io/images/elevator.png'>"
+title: "Custom Firepit"
+excerpt: "Plasma CNC and MIG welding custom fireplace <br/><img src='/ColemanFarvolden.github.io/images/fire1.png'>"
 collection: portfolio
 ---
 
-This project is an efficient multi-elevator communication system using microcontrollers which can be adapted for any building. In depth explanation available on GitHub.
+Final project for machine shop in grade 12. Designed in Autodesk CAD with eagle, sailboat and fish. Then plasma cut the design onto each sheet. Welded into 4-foot-wide fire pit with 2 foot by 2 foot sheet metal and reinforced base of flat bar.
 
-Working video available [here.](https://youtu.be/rcoC1hvFNZY)
+![Image](https://colemanfarv.github.io/ColemanFarvolden.github.io/images/fire2.png)
 
-Code available on [GitHub.](https://github.com/ColemanFarv/ElevatorCode)
+![Image](https://colemanfarv.github.io/ColemanFarvolden.github.io/images/fire2.png)
 
-![Image](https://colemanfarv.github.io/ColemanFarvolden.github.io/images/elevator.png)
+![Image](https://colemanfarv.github.io/ColemanFarvolden.github.io/images/fire3.png)
+
+![Image](https://colemanfarv.github.io/ColemanFarvolden.github.io/images/fire4.png)
+
+![Image](https://colemanfarv.github.io/ColemanFarvolden.github.io/images/fire5.png)
+
+![Image](https://colemanfarv.github.io/ColemanFarvolden.github.io/images/fire6.png)
+
+
